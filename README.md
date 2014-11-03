@@ -5,3 +5,5 @@ black cats
 bats
 ghouls
 goblins
+vampires
+zombies
